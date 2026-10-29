@@ -8,7 +8,7 @@
 
   <!-- Botão Principal -->
   <a href="https://alencar-arrow.github.io/Landpage-exemplo/" target="_blank">
-    <img src="https://img.shields.io/badge/ Acessar%20HospeDix%20Ao%20Vivo-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar HospeDix" />
+    <img src="https://img.shields.io/badge/ Acessar%20HospeDix%20Ao%20Vivo-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar HospeDix" />
   </a>
 
   <br/><br/>
